@@ -24,6 +24,6 @@ Teaching blocks are **modular course** materials **dedicated to a specific SDG**
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_blocks.png" alt="Blocks" height="400">     
 
 ### Smart Scheduler
-The smart scheduler allows teachers to **book sessions** relating to **SDGs** that are conducted at **partner institutions**, companies or universities. These events are frequently updated and enable teachers to not only talk and discuss the challenges facing us in a classroom setting, but to also **empower students** to work towards a more **sustainable future** by take action and becoming more knowledgable about the strategies that our partners pursue in contributing their part towards the SDGs.
+The smart scheduler allows teachers to **book sessions** relating to **SDGs** that are conducted at **partner institutions**, companies or universities. These events are frequently updated and enable teachers to not only talk and discuss the challenges facing us in a classroom setting, but to also **empower students** to work towards a more **sustainable future** by taking action and becoming more knowledgable about the strategies that our partners pursue in contributing their part towards the SDGs.
 
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_smart_scheduler.png" alt="SmartScheduler" height="400">
