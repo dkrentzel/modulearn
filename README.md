@@ -1,4 +1,4 @@
-# <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/Asset%201%4010x.png" alt="Logo" height="50"> 
+# <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/Asset%201%4010x.png" alt="Logo" height="100"> 
 
 ## What is this?
 The modulearn platform provides teachers and schools with the tools to integrate sustainable development goals into their core teaching curriculum, all the while making use of the much studied format of project based learning. 
