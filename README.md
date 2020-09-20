@@ -11,8 +11,7 @@ The modulearn prototype was developed in [proto.io](https://proto.io/) and can b
 ## Main features
 
 
-[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modullearn_login.png
-" alt="Login" height="300">]
+[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="300">]
 
 [<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modullearn_dashboard.png
 " alt="Dashboard" height="300">]
