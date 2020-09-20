@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Antenna</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tech" sketch:type="MSLayerGroup" transform="translate(-358.000000, -609.000000)" stroke="#535353" stroke-width="2">
+            <g id="Antenna" transform="translate(370.000000, 613.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-462" stroke-linecap="round" cx="17" cy="12" r="3"></circle>
+                <path d="M24.0571802,19.0849284 C25.8749837,17.2742 27,14.7684808 27,12 C27,9.29049575 25.9224053,6.83267724 24.1724061,5.0317347" id="Oval-463" stroke-linecap="round"></path>
+                <path d="M7.05718016,19.0849284 C8.87498368,17.2742 10,14.7684808 10,12 C10,9.29049575 8.92240527,6.83267724 7.17240606,5.0317347" id="Oval-463" stroke-linecap="round" transform="translate(8.528590, 12.058332) scale(-1, 1) translate(-8.528590, -12.058332) "></path>
+                <path d="M29.1115315,23.6007958 C32.0976046,20.6263448 33.9456487,16.510245 33.9456487,11.9625114 C33.9456487,7.51165749 32.1755032,3.47424325 29.300811,0.515867352" id="Oval-464" stroke-linecap="round"></path>
+                <path d="M0.111531486,23.6007958 C3.09760461,20.6263448 4.94564868,16.510245 4.94564868,11.9625114 C4.94564868,7.51165749 3.17550321,3.47424325 0.300811002,0.515867352" id="Oval-464" stroke-linecap="round" transform="translate(2.528590, 12.058332) scale(-1, 1) translate(-2.528590, -12.058332) "></path>
+                <path d="M5,53 L15,20 L19,20 L29,53" id="Rectangle-392" stroke-linecap="round"></path>
+                <path d="M13.5,26 L20.5,26" id="Line" stroke-linecap="square"></path>
+                <path d="M9.66561451,38 L24.4498263,38 L26.5502312,45 L7.50533291,45 L9.66561451,38 Z" id="Rectangle-392" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
