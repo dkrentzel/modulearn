@@ -19,7 +19,7 @@ The dashobard is the central hub were the core functionalities of modulearn are 
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_dashboard.png" alt="Dashboard" height="400">
 
 ### Teaching Blocks
-Teaching blocks are modular course materials dedicated to a specific SDG that aim to seamlessly integrate the core curriculum. Blocks are essentially powerful and easily deployable teaching resources.
+Teaching blocks are modular course materials dedicated to a specific SDG that aim to seamlessly integrate into the core curriculum. Blocks are essentially powerful and easily deployable teaching resources.
 
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_blocks.png" alt="Blocks" height="400">     
 
