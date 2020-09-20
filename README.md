@@ -14,7 +14,7 @@ The modulearn prototype was developed in [proto.io](https://proto.io/) and can b
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="400">     
 
 ### Dashboard
-The dashobard is the **central hub** were the core functionalities of modulearn are showcased. This includes **preparatory material** on upcoming teaching blocks for specific SDGs, **ongoing learning** for the teachers and current **data-driven experiments** being conducted in the classroom with the aim of fostering sustainable behaviours. 
+The dashobard is the **central hub** where the core functionalities of modulearn are showcased. This includes **preparatory material** on upcoming teaching blocks for specific SDGs, **ongoing learning** for the teachers and current **data-driven experiments** being conducted in the classroom with the aim of fostering sustainable behaviours. 
 
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_dashboard.png" alt="Dashboard" height="400">
 
