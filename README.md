@@ -11,13 +11,19 @@ The modulearn prototype was developed in [proto.io](https://proto.io/) and can b
 ## Screenshots
 
 ### Login Screen
-<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="250">     
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="400">     
 
 ### Dashboard
-<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_dashboard.png" alt="Dashboard" height="250">
+The dashobard is the central hub were the core functionalities of modulearn are showcased. This includes preparatory material on upcoming teaching blocks for specific SDGs, ongoing learning for the teachers and current experiments being conducted in the classroom with the aim of fostering sustainable behaviours. 
+
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_dashboard.png" alt="Dashboard" height="400">
 
 ### Teaching Blocks
-<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_blocks.png" alt="Blocks" height="250">     
+Teaching blocks are modular course materials dedicated to a specific SDG that aim to seamlessly integrate the core curriculum. Blocks are essentially powerful and easily deployable teaching resources.
+
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_blocks.png" alt="Blocks" height="400">     
 
 ### Smart Scheduler
-<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_smart_scheduler.png" alt="SmartScheduler" height="250">
+The smart scheduler allows teachers to book sessions relating to SDGs that are conducted at partner institutions, companies or universities. These events are frequently updated and enable teachers to not only talk and discuss the challenges facing us in a classroom setting, but to also empower students to work towards a more sustainable future by take action and becoming more knowledgable about the strategies that our partners pursue in contributing their part towards the SDGs.
+
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_smart_scheduler.png" alt="SmartScheduler" height="400">
