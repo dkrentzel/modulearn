@@ -8,7 +8,7 @@ The **modulearn** platform provides teachers and schools with the tools to **int
 ## How can I try it? 
 The modulearn prototype was developed in [proto.io](https://proto.io/) and can be tested [here](https://pr.to/EY7EXD/). 
 
-## Screenshots
+## Functionalities
 
 ### Login Screen
 <img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="400">     
