@@ -11,13 +11,12 @@ The modulearn prototype was developed in [proto.io](https://proto.io/) and can b
 ## Main features
 
 
-[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="300">]
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_login.png" alt="Login" height="250">
 
-[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modullearn_dashboard.png
-" alt="Dashboard" height="300">]
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_dashboard.png" alt="Dashboard" height="250">
 
-[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modullearn_blocks.png
-" alt="Blocks" height="300">]
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_blocks.png
+" alt="Blocks" height="250">
 
-[<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modullearn_smart_scheduler.png
-" alt="SmartScheduler" height="300">]
+<img src="https://github.com/dkrentzel/modulearn/blob/master/readmedata/modulearn_smart_scheduler.png
+" alt="SmartScheduler" height="250">
